@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Pet Store Api testing - Technical Test" skipped="0" tests="3" time="9.68" timestamp="2024-05-20 08:37:51"><testcase name="Find purchase order by ID"/><testcase name="Returns pet inventory by status"/><testcase name="Delete purchase order by ID"/></testsuite>
